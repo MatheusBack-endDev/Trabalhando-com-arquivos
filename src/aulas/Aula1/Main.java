@@ -1,4 +1,4 @@
-package aulas;
+package aulas.Aula1;
 
 import java.io.File;
 import java.io.IOException;

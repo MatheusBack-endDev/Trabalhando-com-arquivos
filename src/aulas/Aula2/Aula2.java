@@ -1,10 +1,8 @@
-package aulas;
+package aulas.Aula2;
 
-import javax.swing.plaf.synth.SynthOptionPaneUI;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-import java.util.Scanner;
 
 public class Aula2 {
 
